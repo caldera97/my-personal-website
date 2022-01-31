@@ -75,3 +75,16 @@ body {
     padding-bottom: .5rem;
     background-color: rgba(51, 51, 51, 0.5);
 }
+.banner_button:hover {
+    background-color: rgba(172, 9, 9, 0.5);
+    transform: scale(1.09);
+    transition: 500ms;
+}
+.banner_fade {
+    margin-top: 145px;
+    height: 7.4rem;
+    background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, 0.61), #111);
+}
+.originals {
+    padding-top: 20px;
+}
